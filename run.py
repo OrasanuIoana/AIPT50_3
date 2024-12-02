@@ -22,6 +22,10 @@ if __name__ == '__main__':
     print("Probabilities:")
     print(net.probabilities)
 
+    # this is of type panda
+    #print(net.probabilities['Burglary']['prob'])
+
+
     # Make your variable elimination code in the seperate file: 'variable_elim'. 
     # You use this file as follows:
     #ve = VariableElimination(net)

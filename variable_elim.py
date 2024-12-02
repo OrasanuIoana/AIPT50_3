@@ -74,7 +74,12 @@ class VariableElimination():
 
         return sum_factors
 
+    def factors_multiplication(self, factors):
+        # result = factors[0]
+        #
+        # for factor in factors:
 
+        pass
 
 
 
